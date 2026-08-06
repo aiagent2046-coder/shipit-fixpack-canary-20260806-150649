@@ -1,3 +1,3 @@
 import os
 
-secret = "winterharbor47stone"
+secret = os.environ["APP_SECRET"]
